@@ -78,8 +78,8 @@ int main() {
    return 0;
 }"
 
-Contributing
+## Contributing
 If you would like to contribute to the C Program Generator, please feel free to submit a pull request with your changes. We welcome contributions of all types, from bug fixes to new features and enhancements.
 
-License
+## License
 The C Program Generator is open source software released under the MIT license. See LICENSE for more information.
